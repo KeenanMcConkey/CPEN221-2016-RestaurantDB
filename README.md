@@ -2,6 +2,9 @@
 ### Machine Problem 5 for Course CPEN 221
 #### By Keenan McConkey and Glyn Fink
 
+**NB:** The original repository for this project was deleted as the course moved on to its next year so the code contribution time and amount from each group member has not been preserved. 
+
+
 ## Project Objective
 
 The objective of this project was to build a command line server in Java capable of processing JSON data from a database of restaurants, and to build a client that retrieves relevant information from the server via structured queries. The server and client are meant to run concurrently on a single system and to allow for multiple client connections at the same time while handling data races. The server uses *k-means clustering* and *least squares regression* to group restaurants and to predict user ratings based on previous data.
