@@ -1,6 +1,6 @@
 # CPEN 221 2016 - Restaurant Database
 ### Machine Problem 5 for Course CPEN 221
-#### By Keenan McConkey and Glyn Fink
+#### By Keenan McConkey and Glyn Finck
 
 **NB:** The original repository for this project was deleted as the course moved on to its next year so the code contribution time and amount from each group member has not been preserved. 
 
