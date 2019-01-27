@@ -43,4 +43,4 @@ The grammar for the query language looks something like this:
 
 A credit for this project idea goes to the instructors of CPEN 221 for Fall 2016. Some example code was provided by the instructors to get us started but the majority of code is our own. See `instructor_description.md` for orignal project outline given by the instructors.
 
-#### Created by Keenan McConkey and Glyn Fink for CPEN 221 Fall 2016
+#### Created by Keenan McConkey and Glyn Finck for CPEN 221 Fall 2016
